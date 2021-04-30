@@ -3,7 +3,7 @@
 In this repository, we provide the data we have used to compensate sensitivity changes of duty-cycled MOX gas sensors with machine learning. Details about our work can be found in our paper:
 
 ```
-@misc{inproceedings, 
+@inproceedings{tug-eip2021sgp30, 
   author = {Gherman, Markus-Philipp and Cheng, Yun and Gomez, Andres and Saukh, Olga},
   title = {Compensating Altered Sensitivity of Duty-Cycled MOX Gas Sensors with Machine Learning},
   year = {2021},
