@@ -1,6 +1,14 @@
 # MOX-Compensation-SGP30
 
-In this repository, we provide the data we have used to compensate sensitivity changes of duty-cycled MOX gas sensors with machine learning. Details about our work can be found in [our paper](https://linktopaper).
+In this repository, we provide the data we have used to compensate sensitivity changes of duty-cycled MOX gas sensors with machine learning. Details about our work can be found in our paper:
+
+```
+@misc{inproceedings, 
+  author = {Gherman, Markus-Philipp and Cheng, Yun and Gomez, Andres and Saukh, Olga},
+  title = {Compensating Altered Sensitivity of Duty-Cycled MOX Gas Sensors with Machine Learning},
+  year = {2021},
+}
+```
 
 ## Datasets
 
@@ -44,3 +52,8 @@ Each sample is terminated with a row starting with an `end` identifier. The rows
 ## Contact
 
 Feel free to contact us for any questions on the data or to present your findings on this topic to us. We are curious to hear about your work!
+
+- philipp.gherman@gmail.com
+- chengyu@ethz.ch
+- andres.gomez@unisg.ch
+- saukh@tugraz.at
